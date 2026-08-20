@@ -3,6 +3,8 @@
 # group-template
 Template do Repositório de Grupo
 
+**Nota:** 15,25
+
 * Aluno1: José Mário Raimundo Lima 106888
 * Aluno2: Rodrigo Novais da Silva 108961
 * Aluno3: Francisco José Magalhães da Rocha Coelho 104521
